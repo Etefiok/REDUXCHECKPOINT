@@ -1,0 +1,26 @@
+.body{
+    justify-content: center;
+    padding: 50vh;
+    /* background-color: red; */
+    width: auto;
+    height: 100vh;
+}
+.todocon{
+    display: grid;
+  background-color: rgb(211, 185, 185);
+  width: fit-content;
+  margin: auto;
+  padding: 10px;
+       
+   }
+  
+   .todo button{
+       /* display: grid; */
+       width: 15vh;
+       /* color: blue; */
+       background-color: rgb(177, 177, 177);
+      margin-top: 10px;
+      /* align-content: center; */
+      /* justify-content: center; */
+   
+   }
